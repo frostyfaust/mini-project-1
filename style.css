@@ -1,0 +1,37 @@
+*{
+    font-family: 'Lucida Sans Unicode', 'lucida sans', sans-serif;
+}
+
+body {
+    background-color: #FCF9BE;
+    text-align: center;
+}
+
+
+header {
+    background-color: #FFDCA9;
+    position: sticky;
+    top: 0;
+}
+
+footer {
+    background-color: #FAAB78;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 10px;
+}
+.center {
+    margin: 30px auto;
+}
+
+ul {
+    text-align: right;
+    font-size: larger;
+    
+}
+
+.together{
+    display: inline;
+}
